@@ -45,7 +45,6 @@ body{
 }
 .cards_container{
     display: grid;
-    grid-template: repeat(4, 100px)/repeat(3, auto);
     padding: 2rem;
     grid-gap: 25px;
 }
